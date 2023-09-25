@@ -2,7 +2,7 @@
 
 ## Introduction
 
-MoonSec is a powerful bot designed to obfuscate code and text, providing an additional layer of security and privacy for your content. This README will guide you through the installation, usage, and customization of MoonSec.
+MoonSec is a powerful bot designed to obfuscate code and providing more security for your product(s), providing an additional layer of security and privacy for your content. This README will guide you through the installation, usage, and customization of MoonSec.
 
 ## Features
 
