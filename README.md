@@ -11,11 +11,6 @@ MoonSec is a powerful bot designed to obfuscate code and providing more security
 - Customization: Customize the obfuscation process with various options and settings.
 - User-Friendly Interface: MoonSec offers an easy-to-use Discord bot interface for seamless integration into your server.
 
-## Installation
+## Support and Disclaimer
 
-To add MoonSec to your Discord server, follow these steps:
-
-1. **Invite MoonSec**: Use [this invite link](#) to add MoonSec to your Discord server.
-2. **Configure Permissions**: Ensure that MoonSec has the necessary permissions to read and send messages in the channels where you want to use it.
-
-# You can fork, customize and use this as you wish.
+**Note:** MoonSec is provided as-is, without any official support. The project maintainers do not offer any guarantees or warranties, and there won't be any official support channels or assistance provided. If you decide to use MoonSec, you are responsible for its deployment, maintenance, and any issues that may arise.
