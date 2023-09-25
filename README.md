@@ -13,4 +13,4 @@ MoonSec is a powerful bot designed to obfuscate code and providing more security
 
 ## Support and Disclaimer
 
-**Note:** MoonSec is provided as-is, without any official support. The project maintainers do not offer any guarantees or warranties, and there won't be any official support channels or assistance provided. If you decide to use MoonSec, you are responsible for its deployment, maintenance, and any issues that may arise.
+**Note: MoonSec is provided as-is, without any official support. The project maintainers do not offer any guarantees or warranties, and there won't be any official support channels or assistance provided. If you decide to use MoonSec, you are responsible for its deployment, maintenance, and any issues that may arise.**
